@@ -10,7 +10,6 @@ The darknet is a part of the internet that requires specific software (TOR) to a
 
 ### Hidden Keywords
 
-<!--
 - Tor
 - Darknet
 - Deepweb
@@ -54,7 +53,6 @@ The darknet is a part of the internet that requires specific software (TOR) to a
 - Photos
 - Content
 - Private
--->
 
 **Note:** Use this information responsibly and in compliance with your local laws.
 
